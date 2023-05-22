@@ -1,12 +1,12 @@
 # dorotos – Tooling Suite for Containerized ROS Applications
 
-<img src="assets/logo.png" height=100 align="right">
+<img src="assets/logo.png" height=150 align="right">
 
-## [***docker-ros***](https://github.com/ika-rwth-aachen/docker-ros) automatically builds minimal container images of ROS applications
+### [***docker-ros***](https://github.com/ika-rwth-aachen/docker-ros) automatically builds minimal container images of ROS applications
 
-## [***docker-ros-ml-images***](https://github.com/ika-rwth-aachen/docker-ros-ml-images) provides machine learning-enabled base container images
+### [***docker-ros-ml-images***](https://github.com/ika-rwth-aachen/docker-ros-ml-images) provides machine learning-enabled base container images
 
-## [***docker-run***](https://github.com/ika-rwth-aachen/docker-run) is a CLI tool for simplified interaction with container images during development
+### [***docker-run***](https://github.com/ika-rwth-aachen/docker-run) is a CLI tool for simplified interaction with container images during development
 
 ---
 
