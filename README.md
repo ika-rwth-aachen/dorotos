@@ -1,6 +1,6 @@
-# dorotos – Tooling Suite for Containerized ROS Applications
+# *dorotos* – Tooling Suite for Containerized ROS Applications
 
-<img src="assets/logo.png" height=150 align="right">
+<img src="assets/logo.png" height=180 align="right">
 
 ### [***docker-ros***](https://github.com/ika-rwth-aachen/docker-ros) automatically builds minimal container images of ROS applications
 
