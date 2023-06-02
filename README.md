@@ -22,7 +22,7 @@
 <p align="left">
   <img src="https://img.shields.io/github/v/release/ika-rwth-aachen/docker-run"/>
   <img src="https://img.shields.io/github/license/ika-rwth-aachen/docker-run"/>
-  <a href="https://pypi.org/project/docker-run/"><img src="https://img.shields.io/pypi/dm/docker-run?color=blue&label=PyPI%20downloads"/>
+  <a href="https://pypi.org/project/docker-run-cli/"><img src="https://img.shields.io/pypi/dm/docker-run-cli?color=blue&label=PyPI%20downloads"/>
   <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-run?style=social"/>
 </p>
 
