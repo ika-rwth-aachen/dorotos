@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-ros?style=social"/>
 </p>
 
-### [***docker-ros-ml-images***](https://github.com/ika-rwth-aachen/docker-ros-ml-images) provides machine learning-enabled base container images
+### [***docker-ros-ml-images***](https://github.com/ika-rwth-aachen/docker-ros-ml-images) provides machine learning-enabled ROS base container images
 <p align="left">
   <img src="https://img.shields.io/github/v/release/ika-rwth-aachen/docker-ros-ml-images"/></a>
   <img src="https://img.shields.io/github/license/ika-rwth-aachen/docker-ros-ml-images"/>
