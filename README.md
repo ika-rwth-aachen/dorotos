@@ -4,17 +4,21 @@
 
 ### [***docker-ros***](https://github.com/ika-rwth-aachen/docker-ros) automatically builds minimal container images of ROS applications
 <p align="left">
-  <img src="https://img.shields.io/github/v/release/ika-rwth-aachen/docker-ros"/>
+  <img src="https://img.shields.io/github/v/release/ika-rwth-aachen/docker-ros"/></a>
   <img src="https://img.shields.io/github/license/ika-rwth-aachen/docker-ros"/>
-  <a href="https://github.com/ika-rwth-aachen/docker-ros/actions/workflows/main.yml"><img src="https://github.com/ika-rwth-aachen/docker-ros/actions/workflows/main.yml/badge.svg"/></a>
+  <a href="https://github.com/ika-rwth-aachen/docker-ros/actions/workflows/github.yml"><img src="https://github.com/ika-rwth-aachen/docker-ros/actions/workflows/github.yml/badge.svg"/></a>
+  <a href="https://github.com/ika-rwth-aachen/docker-ros/actions/workflows/gitlab.yml"><img src="https://github.com/ika-rwth-aachen/docker-ros/actions/workflows/gitlab.yml/badge.svg"/></a>
   <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-ros?style=social"/>
 </p>
 
 ### [***docker-ros-ml-images***](https://github.com/ika-rwth-aachen/docker-ros-ml-images) provides machine learning-enabled base container images
 <p align="left">
-  <img src="https://img.shields.io/github/v/release/ika-rwth-aachen/docker-ros-ml-images"/>
+  <img src="https://img.shields.io/github/v/release/ika-rwth-aachen/docker-ros-ml-images"/></a>
   <img src="https://img.shields.io/github/license/ika-rwth-aachen/docker-ros-ml-images"/>
-  <a href="https://hub.docker.com/r/rwthika/ros"><img src="https://img.shields.io/docker/pulls/rwthika/ros"/></a>
+  <img src="https://img.shields.io/badge/ROS-noetic-blueviolet"/>
+  <img src="https://img.shields.io/badge/ROS 2-foxy|humble|iron|rolling-blueviolet"/>
+  <img src="https://img.shields.io/badge/PyTorch-1.11-red"/>
+  <img src="https://img.shields.io/badge/TensorFlow-2.9-orange"/>
   <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-ros-ml-images?style=social"/>
 </p>
 
@@ -22,7 +26,8 @@
 <p align="left">
   <img src="https://img.shields.io/github/v/release/ika-rwth-aachen/docker-run"/>
   <img src="https://img.shields.io/github/license/ika-rwth-aachen/docker-run"/>
-  <a href="https://pypi.org/project/docker-run-cli/"><img src="https://img.shields.io/pypi/dm/docker-run-cli?color=blue&label=PyPI%20downloads"/>
+  <a href="https://pypi.org/project/docker-run-cli/"><img src="https://img.shields.io/pypi/v/docker-run-cli?label=PyPI"/></a>
+  <a href="https://pypi.org/project/docker-run-cli/"><img src="https://img.shields.io/pypi/dm/docker-run-cli?color=blue&label=PyPI%20downloads"/></a>
   <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-run?style=social"/>
 </p>
 
