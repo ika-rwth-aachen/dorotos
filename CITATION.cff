@@ -12,13 +12,14 @@ authors:
     family-names: Reiher
 
 preferred-citation:
-  title: "Enabling the Deployment of Any-Scale Robotic Applications in Microservice-Based Service-Oriented Architectures through Automated Containerization"
-  type: misc
+  title: "Enabling the Deployment of Any-Scale Robotic Applications in Microservice Architectures through Automated Containerization"
+  type: generic
   # conference:
   #   name:
   # month:
   year: 2023
-  # doi: ""
+  doi: "10.48550/arXiv.2309.06611"
+  url: "https://arxiv.org/abs/2309.06611"
   authors:
     - given-names: Jean-Pierre
       family-names: Busch
