@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/github/license/ika-rwth-aachen/docker-ros-ml-images"/>
   <img src="https://img.shields.io/badge/ROS-noetic-blueviolet"/>
   <img src="https://img.shields.io/badge/ROS 2-foxy|humble|iron|rolling-blueviolet"/>
-  <img src="https://img.shields.io/badge/PyTorch-1.11-red"/>
-  <img src="https://img.shields.io/badge/TensorFlow-2.9-orange"/>
+  <img src="https://img.shields.io/badge/PyTorch-2.0-red"/>
+  <img src="https://img.shields.io/badge/TensorFlow-2.11-orange"/>
   <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-ros-ml-images?style=social"/>
 </p>
 
