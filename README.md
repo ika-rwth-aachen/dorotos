@@ -36,7 +36,8 @@
 This repository accompanies our paper on automated containerization for ROS applications. It links to the specific tool repositories that were developed as part of this work.
 
 > **Enabling the Deployment of Any-Scale Robotic Applications in Microservice Architectures through Automated Containerization**  
-> ([*arXiv*](https://arxiv.org/abs/2309.06611))
+> ([*IEEE Xplore*](https://ieeexplore.ieee.org/document/10611586), [*arXiv*](https://arxiv.org/abs/2309.06611), [*ResearchGate*](https://www.researchgate.net/publication/382983834_Enabling_the_Deployment_of_Any-Scale_Robotic_Applications_in_Microservice_Architectures_through_Automated_Containerization))  
+> <a href="https://ieeexplore.ieee.org/document/10611586"><img src="https://img.shields.io/badge/DOI-10.1109/ICRA57147.2024.10611586-blue"/></a>
 >
 > [Jean-Pierre Busch](https://www.ika.rwth-aachen.de/de/institut/team/fahrzeugintelligenz-automatisiertes-fahren/busch.html) and [Lennart Reiher](https://www.ika.rwth-aachen.de/de/institut/team/fahrzeugintelligenz-automatisiertes-fahren/reiher.html), [Lutz Eckstein](https://www.ika.rwth-aachen.de/de/institut/team/univ-prof-dr-ing-lutz-eckstein.html)  
 > [Institute for Automotive Engineering (ika), RWTH Aachen University](https://www.ika.rwth-aachen.de/en/)
